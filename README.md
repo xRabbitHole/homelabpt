@@ -28,7 +28,7 @@ Linux (IP: 192.168.3.2)
 Configurato per ospitare un’applicazione web e situato nella DMZ, fornendo un obiettivo per attacchi web-based.
 
 ## Funzionalità del Laboratorio
-Questo laboratorio l'ho progettato per praticare attività pentesting e migliorare le capacità di attacco/difesa informatica, utilizzado un ambiente controllato e "reale" possiblie,che conseta di compredere al meglio tutti concettia e mettere mano sia dal lato (PT/RED TEAM) che dalla'altro (BLUE TEAM) . 
+Questo laboratorio l'ho progettato per praticare attività pentesting e migliorare le capacità di attacco/difesa informatica, utilizzado un ambiente controllato e "reale" possiblie,che conseta di compredere al meglio tutti i concetti e a mettere mano sia dal lato (PT/RED TEAM) che dalla'altro (BLUE TEAM) . 
 Simulazione di scenari di attacco realistici: ogni componente è progettato per offrire un ambiente realistico dove sperimentare attacchi di rete, brute-force su AD, attacchi web, vulnerabilità di configurazione, e molto altro.
 Integrazione con pfSense: la configurazione di rete avanzata gestita da pfSense permette una suddivisione chiara delle zone di rete (WLAN, LAN, DMZ), consentendo di testare le difese da più prospettive
 
